@@ -1,2 +1,2 @@
 # BatchTools
-Simple Batch Tools
+Simple Batch Tools for Utilites
